@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 80px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px lightgray;
+
+    h3{
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+}
